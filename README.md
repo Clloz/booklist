@@ -13,14 +13,18 @@
 - [计算机网络](#计算机网络)
 - [数据库](#数据库)
 - [软件工程](#软件工程)
+- [设计模式](#设计模式)
 - [编程语言](#编程语言)
+  - [汇编](#汇编)
   - [C](#c)
   - [C++](#c++)
   - [Python](#python)
-  - [Java](#Java)
+  - [Java](#java)
+  - [Lisp](#lisp)
   - [NodeJs](#nodejs)
 - [游戏开发](#游戏开发)
-- [Git](#git)
+- [设计](#设计)
+- [版本控制](#版本控制)
 - [数学](#数学)
 - [科学](#科学)
 - [文学](#文学)
@@ -122,18 +126,42 @@
 - 数据库系统实现(第二版)
 - 数据库索引设计与优化
 - Oracle Database 9i 10g 11g编程艺术:深入数据库体系结构 第2版
+- redis实战
+- redis设计与实现
 
 ### 软件工程
 - 代码大全2
-- 重构
+- 重构：改善既有代码的设计
 - 代码整洁之道：程序员的职业素养
 - 人月神话
+- 程序员修炼之道
+- 计算机程序设计艺术
+- 修改代码的艺术
+- Peopleware / 人件集:人性化的软件开发
+- 测试驱动开发
+- 高效程序员的45个习惯：敏捷开发修炼之道
+- 大型网站技术架构：核心原理与案例分析
+- 大型分布式网站架构：设计与实践
+
+### 设计模式
+- 大话设计模式
+- 设计模式-可复用面向对象软件的基础
+- Head First设计模式
+- 哥德尔、艾舍尔、巴赫书：集异璧之大成
+
 
 ### 编程语言
+#### 汇编
+- 汇编语言（第三版）
+- [Introduction to Computer Organization with x86-64 Assembly Language & GNU/Linux](https://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html "Introduction to Computer Organization with x86-64 Assembly Language & GNU/Linux")
+
+
 #### C
 - C程序设计语言（第二版）
 - C Primer Plus 第六版
 - 明解C语言
+- C和指针
+- C陷阱和缺陷
 
 #### C++
 - C++ Primer(中文版)(第5版)
@@ -145,6 +173,9 @@
 - 深度探索C++对象模型
 - Effective Modern C++:改善C++11和C++14的42个具体做法(影印版)(英文版)
 - 深入理解C++11:C++11新特性解析与应用
+- The Design and Evolution of C++
+- Thinking in C++
+- Effective STL中文版
 
 #### Python
 - Python核心编程（第3版）（异步图书）
@@ -154,9 +185,18 @@
 - Java编程思想
 - 深入理解Java虚拟机：JVM高级特性与最佳实践
 - effective-java中文版
-- JAVA并发编程实践
+- Java并发编程实践
 - Java并发编程实战
+- Java并发编程艺术
 - Java8实战
+- Java核心技术
+- Spring实战
+- Maven实战
+- Spring MVC 学习指南
+
+#### Lisp
+- The Little Schemer
+- The Seasoned Schemer
 
 #### NodeJS
 - Node.js开发指南 (图灵原创 3)
@@ -167,15 +207,22 @@
 - C++游戏编程入门(第4版)
 - 游戏编程模式（异步图书） (游戏设计与开发)
 
-### Git
+### 设计
+- 点石成金:访客至上的网页设计秘笈
+- 交互设计之路
+
+### 版本控制
 - Git版本控制管理（第2版）（异步图书）
 - Pro Git
+
+### 公开课
+
 
 ### 数学
 - 数学之美
 - 具体数学
 
-### 物理化学生物
+### 科学
 - 万物起源
 - 七堂极简物理课
 
@@ -319,3 +366,8 @@
 - 林徽因传
 - 强势：如何在工作、恋爱和人际交往中快速取得主导权？
 - 语言学的邀请
+- 浪潮之巅
+- Coders at Work / 编程人生
+
+### 资源链接
+1. [计算机开源书籍](https://github.com/justjavac/free-programming-books-zh_CN "计算机开源书籍")
