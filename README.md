@@ -309,13 +309,17 @@
 - [ACM](https://www.acm.org/)
 - [ICPC](https://icpc.baylor.edu/)
 - [实验吧](http://www.shiyanbar.com/ctf/practice)
+- [infoQ](https://www.infoq.com/)
+- [stackoverflow](https://stackoverflow.com)
+- [HackerRank](https://www.hackerrank.com/)
+- [program by doing](https://programmingbydoing.com/)
 
 ### 学习路线
-#### 前端
+#### 前端路线
 ![front-end-tree](https://img.clloz.com/blog/writing/front-end-tree.jpg "front-end-tree")
 
 #### 游戏开发
-<embed src="https://miloyip.github.io/game-programmer/game-programmer-zh-cn.svg" type="image/svg+xml" />
+[game-programmer](https://github.com/miloyip/game-programmer "game-programmer")
 
 ### 数学
 - 数学之美
