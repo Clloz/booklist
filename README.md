@@ -1,5 +1,5 @@
 ### 前言
-这篇文章整理自己的书单，包括读过和未读的，自己觉得有价值一读的数都会放到这个书单中，也不限于技术书籍，会长期保持更新。现在这个信息爆炸的时代信息的质量越来越差，需要仔细鉴别，增加自己的阅读和知识面是一个不错的方法。培养自己的读书习惯不是一件容易的事情，电子设备和社交软件疯狂吞噬着时间，要静下心来阅读需要养成习惯。每次买书都想到 `盗钥匙的方法` 中香川照之对堺雅人说的：`ちょっとやる気出して　勉強しようと思っても　本買ってきただけで満足しちゃう　一番ダメなタイプの人間だろ　お前は`。
+这篇文章整理自己的书单，包括读过和未读的，自己觉得有价值一读的数都会放到这个书单中，也不限于技术书籍，同时也会整理比较好的公开课以及学习资料，会长期保持更新。现在这个信息爆炸的时代信息的质量越来越差，需要仔细鉴别，增加自己的阅读和知识面是一个不错的方法。培养自己的读书习惯不是一件容易的事情，电子设备和社交软件疯狂吞噬着时间，要静下心来阅读需要养成习惯。每次买书都想到 `盗钥匙的方法` 中香川照之对堺雅人说的：`ちょっとやる気出して　勉強しようと思っても　本買ってきただけで満足しちゃう　一番ダメなタイプの人間だろ　お前は`。
 
 ### 目录
 - [前端](#前端)
@@ -25,6 +25,17 @@
 - [游戏开发](#游戏开发)
 - [设计](#设计)
 - [版本控制](#版本控制)
+- [公开课](#公开课)
+  - [公开课网站](#公开课网站)
+  - [优秀公开课](#优秀公开课)
+- [网站及资源](#网站及资源)
+  - [工具](#工具)
+  - [标准文档](#标准文档)
+  - [博客](#博客)
+  - [资源](#资源)
+- [学习路线](#学习路线)
+  - [前端](#前端)
+  - [游戏开发](游戏开发)
 - [数学](#数学)
 - [科学](#科学)
 - [文学](#文学)
@@ -41,6 +52,7 @@
 - CSS 禅意花园(修订版)（异步图书）
 - CSS世界（异步图书）
 - CSS揭秘
+- [CSS doodle](https://css-doodle.com/)
 
 #### JavaScript
 - JavaScript高级程序设计（第三版）
@@ -54,6 +66,8 @@
 - JavaScript权威指南（原书第6版）
 - JavaScript语言精粹(修订版)
 - ES6标准入门
+- [How browser works](http://taligarsiel.com/Projects/howbrowserswork1.htm)
+- [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial)
 
 ### 计算机组成原理
 - 计算机科学导论
@@ -115,6 +129,7 @@
 - HTTP权威指南
 - HTTPS权威指南 在服务器和Web应用上部署SSL TLS和PKI
 - 计算机网络-自顶向下方法（第六版）
+- [HTTP权威指南笔记](https://github.com/woai30231/http)
 
 ### 数据库
 - 高性能MySQL(第3版)
@@ -216,11 +231,98 @@
 - Pro Git
 
 ### 公开课
+#### 公开课网站
+- [MIT公开课](https://ocw.mit.edu/index.htm)
+- [Coursade公开课查询](http://www.coursade.com/)
+- [Coursera](https://www.coursera.org/)
+- [edX](https://www.edx.org/)
+- [udacity](https://cn.udacity.com/)
+- [MOOC网站整理](https://www.zhihu.com/question/21095181/answer/21891006)
+- [中国大学MOOC](https://www.icourse163.org/)
+- [网易公开课](https://open.163.com/)
+- [Youtube计算机课程](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ)
+- [计算机科学优秀课程整理](https://github.com/prakhar1989/awesome-courses)
+- [可汗学院](https://www.khanacademy.org/)
+- [学堂在线](https://www.xuetangx.com/)
+- [实验楼](https://www.shiyanlou.com/)
 
+#### 优秀公开课
+- [ucberkeley cs61b数据结构和算法](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
+- [深入理解计算机系统 交大](https://ipads.se.sjtu.edu.cn/courses/ics/2017/index.shtml)
+- [深入理解计算机系统 CMU](https://www.cs.cmu.edu/~213/)
+- [深入理解计算机系统 南大](http://www.icourse163.org/learn/NJU-1001625001?tid=1205931209#/learn/announce)
+- [CMU计算机课程](https://www.zhihu.com/question/28249230/answer/131257766)
+- [飞龙整理公开课](https://it-ebooks.flygon.net/mooc/)
+- [名校计算机课程讲义](https://www.zhihu.com/question/57532048/answer/524593082)
+- [计算机专业优秀讲义](https://www.zhihu.com/question/38300204)
+- [MIT挑战](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
+- [知乎MOOC网站整理](https://www.zhihu.com/question/27952897)
+
+
+### 网站及资源
+#### 工具
+- [图片压缩](https://tinypng.com/)
+- [前端兼容性查询](https://caniuse.com/)
+- [Google学术搜索](https://scholar.google.ro/)
+- [渐变色](https://uigradients.com/#Haikus)
+- [CodePen](https://codepen.io/)
+- [webflow](https://webflow.com/dashboard)
+- [网站构建技术查询](https://builtwith.com/)
+- [网站构建技术查询](https://w3techs.com/)
+- [MOV-GIF](https://convertio.co/zh/mov-gif/)
+- [文档查询b-ok](https://b-ok.org/)
+- [文档查询lib-g](http://gen.lib.rus.ec/)
+- [鸠摩搜索](https://www.jiumodiary.com/)
+- [Githut](https://githut.info/)
+- [JSON解析](https://www.json.cn/)
+- [图片生成](https://picsum.photos/)
+- [IT书籍查询](http://it-ebooks.info/)
+
+#### 标准文档
+- [whatwg HTML Standard](https://html.spec.whatwg.org/)
+- [W3C](https://www.w3.org/TR/)
+- [ECMAScript-262中文](https://ecma262.docschina.org/)
+- [ECMAScript-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+
+#### 博客
+- [冴羽](https://github.com/mqyqingfeng/Blog)
+- [颜海镜](https://yanhaijing.com/)
+- [CSS揭秘作者博客](http://lea.verou.me/)
+- [王垠](https://henix.github.io/feeds/yinwang/)
+
+#### 资源
+- [计算机开源书籍](https://github.com/justjavac/free-programming-books-zh_CN "计算机开源书籍")
+- [MIT计算机本科课表](http://student.mit.edu/catalog/m6a.html)
+- [CMU计算机本科课表](http://coursecatalog.web.cmu.edu/schoolofcomputerscience/)
+- [计算机学习资料整理](https://github.com/jiangxincode/cnblogs)
+- [中科大课程资源](https://ustc-resource.github.io/USTC-Course/)
+- [掘金翻译计划](https://github.com/xitu/gold-miner)
+- [learning SICP](https://github.com/DeathKing/Learning-SICP)
+- [node school](https://nodeschool.io/)
+- [CSS trick](https://css-tricks.com/)
+- [前端算法](http://scriptoj.mangojuice.top/problems?tag=all)
+- [learn X in Y minutes](https://learnxinyminutes.com/)
+- [LeetCode](https://leetcode.com/)
+- [百度前端学院](https://github.com/woai3c/2016ife-task)
+- [北大ACM](http://poj.org/)
+- [Google Web 开发者](https://developers.google.com/web/)
+- [ACM](https://www.acm.org/)
+- [ICPC](https://icpc.baylor.edu/)
+- [实验吧](http://www.shiyanbar.com/ctf/practice)
+
+### 学习路线
+#### 前端
+![front-end-tree](https://img.clloz.com/blog/writing/front-end-tree.jpg "front-end-tree")
+
+#### 游戏开发
+![game-programmer](https://miloyip.github.io/game-programmer/game-programmer-zh-cn.svg "game-programmer")
 
 ### 数学
 - 数学之美
 - 具体数学
+- 普林斯顿微积分读本
+- 线性代数及其应用
+- 华章数学译丛系列
 
 ### 科学
 - 万物起源
@@ -297,6 +399,7 @@
 - 汉译世界学术名著丛书•120年纪念版•珍藏本•语言
 - 不能承受的生命之轻
 - 中华经典名著全本全注全译丛书全套85册58种文白对照原文注释译文
+- [国学经典查询](http://www.vsucai.cn/guoxue/?from=timeline&isappinstalled=0)
 
 ### 政法哲史
 - 枪炮、病菌与钢铁:人类社会的命运(修订版)
@@ -368,6 +471,4 @@
 - 语言学的邀请
 - 浪潮之巅
 - Coders at Work / 编程人生
-
-### 资源链接
-1. [计算机开源书籍](https://github.com/justjavac/free-programming-books-zh_CN "计算机开源书籍")
+- 计算机科学丛书系列
