@@ -315,7 +315,7 @@
 ![front-end-tree](https://img.clloz.com/blog/writing/front-end-tree.jpg "front-end-tree")
 
 #### 游戏开发
-![game-programmer](https://miloyip.github.io/game-programmer/game-programmer-zh-cn.svg "game-programmer")
+<embed src="https://miloyip.github.io/game-programmer/game-programmer-zh-cn.svg" type="image/svg+xml" />
 
 ### 数学
 - 数学之美
