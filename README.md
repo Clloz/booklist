@@ -80,26 +80,28 @@
 - [How browser works](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 - [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial)
 
+### 数据结构与算法
+- 大话数据结构
+- 精通正则表达式（第3版）
+- 算法基础
+- 算法图解 (图灵程序设计丛书)
+- 数据结构与算法分析
+- 数据结构 邓俊辉
+- 算法（第四版）
+- 编程珠玑（第2版修订版）（异步图书）
+- 编程珠玑（续）（修订版）（异步图书）
+- 算法导论
+
 ### 计算机组成原理
 - 计算机科学导论
 - 计算机科学概论
 - 深入理解计算机系统（第三版）
-- 计算机体系结构：量化研究方法
-- 计算机组成与设计:硬件/软件接口(原书第5版)
+- 模拟和数字电子电路基础 - 结合MIT6.0002
 - 编码:隐匿在计算机软硬件背后的语言
-
-### 数据结构与算法
-- 大话数据结构
-- 编程珠玑（续）（修订版）（异步图书）
-- 重构：改善既有代码的设计（异步图书）
-- 编程珠玑（第2版修订版）（异步图书）
-- 算法图解 (图灵程序设计丛书)
-- 精通正则表达式（第3版）
-- 数据结构与算法分析
-- 算法基础
-- 算法导论
-- 离散数学及其应用
-- 算法（第四版）
+- 计算机组成与设计:硬件/软件接口(原书第5版)
+- 计算机存储与外设
+- 计算机组成原理 - Alan Clements
+- 计算机体系结构：量化研究方法
 
 ### 操作系统
 - 操作系统精髓与设计原理（第八版）
@@ -110,6 +112,7 @@
 - 深入解析Windows操作系统 第6版 上册
 - 操作系统设计与实现(第三版上册)
 - 操作系统设计与实现(第三版下册)
+- Linux内核
 
 ### Linux/Unix
 - UNIX 环境高级编程（第三版）
@@ -271,6 +274,10 @@
 - [计算机专业优秀讲义](https://www.zhihu.com/question/38300204)
 - [MIT挑战](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 - [知乎MOOC网站整理](https://www.zhihu.com/question/27952897)
+- [线性代数MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)
+- [电路原理 清华](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20220214X+2017_T2/about)
+- [模拟电路 交大](http://ocw.sjtu.edu.cn/G2S/OCW/cn/CourseDetails.htm?Id=192)
+- [MIT电子电路](http://open.163.com/special/opencourse/circuits.html)
 
 
 ### 网站及资源
