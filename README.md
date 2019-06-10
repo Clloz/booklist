@@ -308,6 +308,7 @@
 - [图片生成](https://picsum.photos/)
 - [IT书籍查询](http://it-ebooks.info/)
 - [Echarts](https://echarts.baidu.com/)
+- [字符编码查询](http://www.mytju.com/classcode/tools/encode_utf8.asp)
 
 #### 标准文档
 - [whatwg HTML Standard](https://html.spec.whatwg.org/)
