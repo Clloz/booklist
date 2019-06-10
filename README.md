@@ -21,6 +21,7 @@
   - [C](#c)
   - [C++](#c++)
   - [Python](#python)
+  - [PHP](#php)
   - [Java](#java)
   - [Lisp](#lisp)
   - [NodeJs](#nodejs)
@@ -211,8 +212,12 @@
 - Effective STL中文版
 
 #### Python
+- A Byte of Python 简明教程
 - Python核心编程（第3版）（异步图书）
 - Python网络数据采集 (图灵程序设计丛书)
+
+#### PHP
+- [PHP the right way](https://laravel-china.github.io/php-the-right-way/)
 
 #### Java
 - Java编程思想
@@ -309,6 +314,7 @@
 - [IT书籍查询](http://it-ebooks.info/)
 - [Echarts](https://echarts.baidu.com/)
 - [字符编码查询](http://www.mytju.com/classcode/tools/encode_utf8.asp)
+- [dictionaries](https://dictionaries.io/)
 
 #### 标准文档
 - [whatwg HTML Standard](https://html.spec.whatwg.org/)
@@ -381,6 +387,7 @@
 - [hinative](https://hinative.com/en-US)
 - 多邻国
 - 卡西欧电子词典
+- [IPA](http://www.coelang.tufs.ac.jp/ipa/index.php)
 
 #### 英语
 - [剑桥字典](https://dictionary.cambridge.org/)
