@@ -242,6 +242,11 @@
 ### 设计
 - 点石成金:访客至上的网页设计秘笈
 - 交互设计之路
+- [渐变色](https://uigradients.com/#Haikus)
+- [中国常用色](http://zhongguose.com/#jiazhutaohong)
+- [日本常用色](http://nipponcolors.com/#karakurenai)
+- [設計師自學完全手冊](https://buzzorange.com/techorange/2013/10/01/get-a-job-as-a-designer-without-going-to-design-school/)
+- [Pinterest](https://www.pinterest.com/)
 
 ### 版本控制
 - Git版本控制管理（第2版）（异步图书）
@@ -285,7 +290,6 @@
 - [图片压缩](https://tinypng.com/)
 - [前端兼容性查询](https://caniuse.com/)
 - [Google学术搜索](https://scholar.google.ro/)
-- [渐变色](https://uigradients.com/#Haikus)
 - [CodePen](https://codepen.io/)
 - [webflow](https://webflow.com/dashboard)
 - [网站构建技术查询](https://builtwith.com/)
@@ -298,6 +302,7 @@
 - [JSON解析](https://www.json.cn/)
 - [图片生成](https://picsum.photos/)
 - [IT书籍查询](http://it-ebooks.info/)
+- [Echarts](https://echarts.baidu.com/)
 
 #### 标准文档
 - [whatwg HTML Standard](https://html.spec.whatwg.org/)
@@ -310,6 +315,16 @@
 - [颜海镜](https://yanhaijing.com/)
 - [CSS揭秘作者博客](http://lea.verou.me/)
 - [王垠](https://henix.github.io/feeds/yinwang/)
+- [阮一峰](https://www.ruanyifeng.com/blog/)
+- [张鑫旭](https://www.zhangxinxu.com/wordpress/)
+- [laruence 鸟哥](http://www.laruence.com/)
+- [書いたものなど](https://machakann.hatenablog.com/)
+- [追梦子](https://www.cnblogs.com/pssp/p/10742385.html)
+- [云风](https://blog.codingnow.com/)
+- [梦想天空](https://www.cnblogs.com/lhb25/)
+- [小胡子哥](https://www.barretlee.com/entry/)
+- [line 王巍](https://onevcat.com/#blog)
+- [艾伦](https://www.cnblogs.com/aaronjs/)
 
 #### 资源
 - [计算机开源书籍](https://github.com/justjavac/free-programming-books-zh_CN "计算机开源书籍")
@@ -325,6 +340,7 @@
 - [learn X in Y minutes](https://learnxinyminutes.com/)
 - [LeetCode](https://leetcode.com/)
 - [百度前端学院](https://github.com/woai3c/2016ife-task)
+- [一起学NodeJs](https://github.com/nswbmw/N-blog)
 - [北大ACM](http://poj.org/)
 - [Google Web 开发者](https://developers.google.com/web/)
 - [ACM](https://www.acm.org/)
