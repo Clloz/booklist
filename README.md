@@ -49,6 +49,7 @@
   - [语言软件](#语言软件)
   - [英语](#英语)
   - [日语](#日语)
+- 音乐
 - [文学](#文学)
 - [政法哲史](#政法哲史)
 - [心理学](#心理学)
@@ -247,6 +248,10 @@
 - [日本常用色](http://nipponcolors.com/#karakurenai)
 - [設計師自學完全手冊](https://buzzorange.com/techorange/2013/10/01/get-a-job-as-a-designer-without-going-to-design-school/)
 - [Pinterest](https://www.pinterest.com/)
+- [awwwards](https://www.awwwards.com/)
+- [fwa](https://thefwa.com/cases/oropress-brillaint-solutions)
+- [themeforest](https://themeforest.net/)
+- [UI中国](https://www.ui.cn/)
 
 ### 版本控制
 - Git版本控制管理（第2版）（异步图书）
@@ -388,6 +393,16 @@
 - 新日语能力考试考前对策
 - 新完全掌握
 - 外研社日汉双解学习词典(新订版)
+
+### 音乐
+- 基本乐理
+- [黑山爵士](http://i.youku.com/i/UMzcyNzgzODA=?spm=a2h0j.8191423.subscription_wrap.DD~A)
+- [上和弦](https://www.upchord.cn/)
+- [音乐测验](http://wiwistudio.com/musictest/)
+- [宋大叔教音乐](https://list.youku.com/albumlist/show?id=1155776&ascending=1&page=1)
+- [doyoudo](http://www.doyoudo.com/)
+- [写给理工科的乐理](https://www.cnblogs.com/devymex/p/3385179.html#4256397)
+- [earmaster music theory](https://www.earmaster.com/music-theory-online/course-introduction.html)
 
 ### 文学
 - 自在独行:贾平凹的独行世界
