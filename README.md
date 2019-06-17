@@ -248,6 +248,7 @@
 #### NodeJS
 - Node.js开发指南 (图灵原创 3)
 - 深入浅出Node.js (图灵原创)
+- [一起学Node](https://github.com/nswbmw/N-blog)
 
 ### 游戏开发
 - 游戏引擎架构
