@@ -66,6 +66,10 @@
 - CSS世界（异步图书）
 - CSS揭秘
 - [CSS doodle](https://css-doodle.com/)
+- [CSS inspiration](https://chokcoco.github.io/CSS-Inspiration/#/./init)
+- [CSS inspiration](https://chokcoco.github.io/CSS-Inspiration/#/./init)
+- [CSS技巧](https://github.com/chokcoco/iCSS)
+
 
 #### JavaScript
 - JavaScript高级程序设计（第三版）
@@ -81,6 +85,9 @@
 - ES6标准入门
 - [How browser works](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 - [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial)
+- [饿了么1](https://github.com/bailicangdu/node-elm)
+- [饿了么2](https://github.com/bailicangdu/vue2-elm)
+- [饿了么3](https://github.com/bailicangdu/vue2-manage)
 
 ### 数据结构与算法
 - 大话数据结构
@@ -339,6 +346,7 @@
 - [小胡子哥](https://www.barretlee.com/entry/)
 - [line 王巍](https://onevcat.com/#blog)
 - [艾伦](https://www.cnblogs.com/aaronjs/)
+- [ChokCoco](https://www.cnblogs.com/coco1s/)
 
 #### 资源
 - [计算机开源书籍](https://github.com/justjavac/free-programming-books-zh_CN "计算机开源书籍")
