@@ -138,6 +138,7 @@
 - 计算的本质：深入剖析程序和计算机
 - 编译原理及实践
 - 编译器设计
+- [parsing techniques 中文译本](https://github.com/duguying/parsing-techniques)
 
 ### 计算机网络
 - 图解HTTP (图灵程序设计丛书)
