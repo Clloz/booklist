@@ -67,7 +67,6 @@
 - CSS揭秘
 - [CSS doodle](https://css-doodle.com/)
 - [CSS inspiration](https://chokcoco.github.io/CSS-Inspiration/#/./init)
-- [CSS inspiration](https://chokcoco.github.io/CSS-Inspiration/#/./init)
 - [CSS技巧](https://github.com/chokcoco/iCSS)
 
 
@@ -373,6 +372,7 @@
 - [stackoverflow](https://stackoverflow.com)
 - [HackerRank](https://www.hackerrank.com/)
 - [program by doing](https://programmingbydoing.com/)
+- [leetcode题解](https://github.com/azl397985856/leetcode)
 
 ### 学习路线
 #### 前端路线
