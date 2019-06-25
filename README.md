@@ -35,6 +35,7 @@
   - [工具](#工具)
   - [标准文档](#标准文档)
   - [博客](#博客)
+  - [博客&论坛](#博客&论坛)
   - [资源](#资源)
 - [学习路线](#学习路线)
   - [前端](#前端)
@@ -286,6 +287,7 @@
 - [可汗学院](https://www.khanacademy.org/)
 - [学堂在线](https://www.xuetangx.com/)
 - [实验楼](https://www.shiyanlou.com/)
+- [tutorialspoint在线学习资源](https://www.tutorialspoint.com/index.htm)
 
 #### 优秀公开课
 - [ucberkeley cs61b数据结构和算法](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
@@ -324,6 +326,8 @@
 - [Echarts](https://echarts.baidu.com/)
 - [字符编码查询](http://www.mytju.com/classcode/tools/encode_utf8.asp)
 - [dictionaries](https://dictionaries.io/)
+- [阿里巴巴开源镜像](https://opsx.alibaba.com/mirror)
+- [ustc镜像](https://mirrors.ustc.edu.cn/)
 
 #### 标准文档
 - [whatwg HTML Standard](https://html.spec.whatwg.org/)
@@ -348,6 +352,20 @@
 - [艾伦](https://www.cnblogs.com/aaronjs/)
 - [ChokCoco](https://www.cnblogs.com/coco1s/)
 
+#### 论坛&资讯
+- [segmentfault](https://segmentfault.com/)
+- [程序员客栈](proginn.com/)
+- [Medium](medium.com/)
+- [Hacker News](https://news.ycombinator.com/news)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [infoQ](https://www.infoq.com/)
+- [stackoverflow](https://stackoverflow.com)
+- [freecodecamp](https://www.freecodecamp.org/news/)
+- [fcc中文](https://www.freecodecamp.one/)
+- [css-weekly](https://css-weekly.com/)
+- [echojs](http://www.echojs.com/)
+- [smashingmagazine](https://www.smashingmagazine.com/)
+
 #### 资源
 - [计算机开源书籍](https://github.com/justjavac/free-programming-books-zh_CN "计算机开源书籍")
 - [MIT计算机本科课表](http://student.mit.edu/catalog/m6a.html)
@@ -368,11 +386,15 @@
 - [ACM](https://www.acm.org/)
 - [ICPC](https://icpc.baylor.edu/)
 - [实验吧](http://www.shiyanbar.com/ctf/practice)
-- [infoQ](https://www.infoq.com/)
-- [stackoverflow](https://stackoverflow.com)
 - [HackerRank](https://www.hackerrank.com/)
 - [program by doing](https://programmingbydoing.com/)
 - [leetcode题解](https://github.com/azl397985856/leetcode)
+- [LintCode](https://www.lintcode.com/)
+- [牛客网-面试](https://www.nowcoder.com)
+- [Web开发练习题](freecodecamp.org/)
+- [算法学习](http://codeforces.com/)
+- [Linux kenrel](https://www.kernel.org/)
+- [算法练习](https://www.hackerrank.com/)
 
 ### 学习路线
 #### 前端路线
