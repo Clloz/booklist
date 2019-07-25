@@ -395,6 +395,7 @@
 - [算法学习](http://codeforces.com/)
 - [Linux kenrel](https://www.kernel.org/)
 - [算法练习](https://www.hackerrank.com/)
+- [jhon washam自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 
 ### 学习路线
 #### 前端路线
