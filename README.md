@@ -351,6 +351,7 @@
 - [line 王巍](https://onevcat.com/#blog)
 - [艾伦](https://www.cnblogs.com/aaronjs/)
 - [ChokCoco](https://www.cnblogs.com/coco1s/)
+- [VS Code programmer Daniel Imms](https://www.growingwiththeweb.com/)
 
 #### 论坛&资讯
 - [segmentfault](https://segmentfault.com/)
