@@ -352,6 +352,7 @@
 - [艾伦](https://www.cnblogs.com/aaronjs/)
 - [ChokCoco](https://www.cnblogs.com/coco1s/)
 - [VS Code programmer Daniel Imms](https://www.growingwiththeweb.com/)
+- [emacs-vim 陈斌](http://blog.binchen.org/#)
 
 #### 论坛&资讯
 - [segmentfault](https://segmentfault.com/)
@@ -397,6 +398,7 @@
 - [Linux kenrel](https://www.kernel.org/)
 - [算法练习](https://www.hackerrank.com/)
 - [jhon washam自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+- [图形学相关资料](https://github.com/FancyVin/fun-with-graphics)
 
 ### 学习路线
 #### 前端路线
