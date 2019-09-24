@@ -353,6 +353,7 @@
 - [ChokCoco](https://www.cnblogs.com/coco1s/)
 - [VS Code programmer Daniel Imms](https://www.growingwiththeweb.com/)
 - [emacs-vim 陈斌](http://blog.binchen.org/#)
+- [王勇](https://manateelazycat.github.io/index.html)
 
 #### 论坛&资讯
 - [segmentfault](https://segmentfault.com/)
