@@ -224,6 +224,7 @@
 - Python核心编程（第3版）（异步图书）
 - Python网络数据采集 (图灵程序设计丛书)
 - [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
+- [微软Python入门课](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6 "微软Python入门课")
 
 #### PHP
 - [PHP the right way](https://laravel-china.github.io/php-the-right-way/)
