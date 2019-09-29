@@ -16,6 +16,7 @@
 - [数据库](#数据库)
 - [软件工程](#软件工程)
 - [设计模式](#设计模式)
+- [Emacs&Vim](#Emacs&Vim)
 - [编程语言](#编程语言)
   - [汇编](#汇编)
   - [C](#c)
@@ -190,6 +191,18 @@
 - 设计模式-可复用面向对象软件的基础
 - Head First设计模式
 - 哥德尔、艾舍尔、巴赫书：集异璧之大成
+
+### Emacs & Vim
+- Vim tutor ( command: `vimtutor`)
+- Emacs tutorial (command: `C-h t`)
+- Vim实用技巧
+- IRC #emacs
+- [emacs-china](https://emacs-china.org "emacs-china")
+- [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html "GNU Emacs Manual")
+- [An Introduction to
+Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html "GNU Emacs Lisp Reference Manual")
+- [GNU Emacs Lisp Reference Manual](https://www.gnu.org/software/emacs/manual/elisp.html "GNU Emacs Lisp Reference Manual")
+- [GNU Emacs Manuals Online](https://www.gnu.org/software/emacs/manual/index.html "GNU Emacs Manuals Online")
 
 
 ### 编程语言
