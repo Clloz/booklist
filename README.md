@@ -270,6 +270,11 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - C++游戏编程入门(第4版)
 - 游戏编程模式（异步图书） (游戏设计与开发)
 
+### 音视频技术
+- [雷霄骅的专栏](https://blog.csdn.net/leixiaohua1020 "雷霄骅的专栏")
+- [ffmpeg](https://github.com/FFmpeg/FFmpeg "ffmpeg")
+- [FFMPEG视音频编解码零基础学习方法](https://blog.csdn.net/leixiaohua1020/article/details/15811977 "FFMPEG视音频编解码零基础学习方法")
+
 ### 设计
 - 点石成金:访客至上的网页设计秘笈
 - 交互设计之路
@@ -352,6 +357,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [ECMAScript-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 
 #### 博客
+- [王勇](https://manateelazycat.github.io/index.html)
 - [冴羽](https://github.com/mqyqingfeng/Blog)
 - [颜海镜](https://yanhaijing.com/)
 - [CSS揭秘作者博客](http://lea.verou.me/)
@@ -369,7 +375,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [ChokCoco](https://www.cnblogs.com/coco1s/)
 - [VS Code programmer Daniel Imms](https://www.growingwiththeweb.com/)
 - [emacs-vim 陈斌](http://blog.binchen.org/#)
-- [王勇](https://manateelazycat.github.io/index.html)
+- [ffmpeg作者Fabrice Ballard](https://bellard.org/ "ffmpeg作者Fabrice Ballard")
 
 #### 论坛&资讯
 - [segmentfault](https://segmentfault.com/)
