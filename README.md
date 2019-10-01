@@ -286,6 +286,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 ### 版本控制
 - Git版本控制管理（第2版）（异步图书）
 - Pro Git
+- [learn git branching](https://learngitbranching.js.org/ "learn git branching")
 
 ### 公开课
 #### 公开课网站
