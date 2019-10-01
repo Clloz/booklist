@@ -37,7 +37,7 @@
   - [标准文档](#标准文档)
   - [博客](#博客)
   - [论坛&资讯](#论坛资讯)
-  - [资源](#资源)
+  - [学习资源汇总](#学习资源汇总)
 - [学习路线](#学习路线)
   - [前端](#前端)
   - [游戏开发](游戏开发)
@@ -385,7 +385,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [echojs](http://www.echojs.com/)
 - [smashingmagazine](https://www.smashingmagazine.com/)
 
-#### 资源
+#### 学习资源汇总
 - [计算机开源书籍](https://github.com/justjavac/free-programming-books-zh_CN "计算机开源书籍")
 - [MIT计算机本科课表](http://student.mit.edu/catalog/m6a.html)
 - [CMU计算机本科课表](http://coursecatalog.web.cmu.edu/schoolofcomputerscience/)
@@ -416,6 +416,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [算法练习](https://www.hackerrank.com/)
 - [jhon washam自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 - [图形学相关资料](https://github.com/FancyVin/fun-with-graphics)
+- [张鑫旭前端小测](https://github.com/zhangxinxu/quiz "张鑫旭前端小测")
 
 ### 学习路线
 #### 前端路线
