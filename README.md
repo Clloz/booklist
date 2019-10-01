@@ -203,6 +203,7 @@
 Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html "GNU Emacs Lisp Reference Manual")
 - [GNU Emacs Lisp Reference Manual](https://www.gnu.org/software/emacs/manual/elisp.html "GNU Emacs Lisp Reference Manual")
 - [GNU Emacs Manuals Online](https://www.gnu.org/software/emacs/manual/index.html "GNU Emacs Manuals Online")
+- [vim-adventures](https://vim-adventures.com/ "vim-adventures")
 
 
 ### 编程语言
