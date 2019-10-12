@@ -186,6 +186,7 @@
 - 高效程序员的45个习惯：敏捷开发修炼之道
 - 大型网站技术架构：核心原理与案例分析
 - 大型分布式网站架构：设计与实践
+- [How to do a code review - Google](https://github.com/google/eng-practices/blob/master/review/reviewer/index.md "How to do a code review - Google")
 
 ### 设计模式
 - 大话设计模式
