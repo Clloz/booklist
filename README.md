@@ -351,6 +351,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [dictionaries](https://dictionaries.io/)
 - [阿里巴巴开源镜像](https://opsx.alibaba.com/mirror)
 - [ustc镜像](https://mirrors.ustc.edu.cn/)
+- [代码粘贴ubuntu-pastebin](https://paste.ubuntu.com/ "代码粘贴ubuntu-pastebin")
 
 #### 标准文档
 - [whatwg HTML Standard](https://html.spec.whatwg.org/)
@@ -393,6 +394,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [css-weekly](https://css-weekly.com/)
 - [echojs](http://www.echojs.com/)
 - [smashingmagazine](https://www.smashingmagazine.com/)
+- [reddit - progamming](https://www.reddit.com/r/programming/ "reddit - progamming")
 
 #### 学习资源汇总
 - [计算机开源书籍](https://github.com/justjavac/free-programming-books-zh_CN "计算机开源书籍")
