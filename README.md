@@ -361,6 +361,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 
 #### 博客
 - [emacs-全栈-王勇](https://manateelazycat.github.io/index.html)
+- [Javascript高级程序设计作者 Nicholas C. Zakas](https://humanwhocodes.com "Javascript高级程序设计作者 Nicholas C. Zakas")
 - [前端-冴羽](https://github.com/mqyqingfeng/Blog)
 - [前端-颜海镜](https://yanhaijing.com/)
 - [CSS揭秘作者博客](http://lea.verou.me/)
