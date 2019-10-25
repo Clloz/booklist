@@ -434,6 +434,8 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 #### 前端路线
 ![front-end-tree](https://img.clloz.com/blog/writing/front-end-tree.jpg "front-end-tree")
 
+方糖前端学习路线图： [PDF下载]( https://img.clloz.com/blog/writing/ft-learning-path.pdf "PDF下载")
+
 #### 游戏开发
 [game-programmer](https://github.com/miloyip/game-programmer "game-programmer")
 
