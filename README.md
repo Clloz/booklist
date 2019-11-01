@@ -430,6 +430,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [图形学相关资料](https://github.com/FancyVin/fun-with-graphics)
 - [张鑫旭前端小测](https://github.com/zhangxinxu/quiz "张鑫旭前端小测")
 - [命令行的艺术（the art of command line）](https://github.com/jlevy/the-art-of-command-line "命令行的艺术（the art of command line）")
+- [命令行翻译工具translate-shell](https://github.com/soimort/translate-shell "命令行翻译工具translate-shell")
 
 ### 学习路线
 #### 前端路线
