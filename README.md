@@ -429,6 +429,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [jhon washam自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 - [图形学相关资料](https://github.com/FancyVin/fun-with-graphics)
 - [张鑫旭前端小测](https://github.com/zhangxinxu/quiz "张鑫旭前端小测")
+- [命令行的艺术（the art of command line）](https://github.com/jlevy/the-art-of-command-line "命令行的艺术（the art of command line）")
 
 ### 学习路线
 #### 前端路线
