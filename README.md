@@ -102,6 +102,7 @@
 - 编程珠玑（第2版修订版）（异步图书）
 - 编程珠玑（续）（修订版）（异步图书）
 - 算法导论
+- [leetcode animation all in one](https://github.com/MisterBooo/LeetCodeAnimation "leetcode animation all in one")
 
 ### 计算机组成原理
 - 计算机科学导论
@@ -381,6 +382,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [emacs-vim 陈斌](http://blog.binchen.org/#)
 - [ffmpe  g作者Fabrice Ballard](https://bellard.org/ "ffmpeg作者Fabrice Ballard")
 - [前端-夜尽天明](https://github.com/biaochenxuying/blog "前端-夜尽天明")
+- [算法-程序员吴师兄](https://www.cxyxiaowu.com/ "算法-程序员吴师兄")
 
 #### 论坛&资讯
 - [segmentfault](https://segmentfault.com/)
