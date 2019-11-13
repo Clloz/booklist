@@ -102,6 +102,7 @@
 - 编程珠玑（第2版修订版）（异步图书）
 - 编程珠玑（续）（修订版）（异步图书）
 - 算法导论
+- The Algorithm Design Manual 算法设计指南
 - [leetcode animation all in one](https://github.com/MisterBooo/LeetCodeAnimation "leetcode animation all in one")
 
 ### 计算机组成原理
