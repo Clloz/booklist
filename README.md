@@ -417,6 +417,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [CSS trick](https://css-tricks.com/)
 - [前端算法](http://scriptoj.mangojuice.top/problems?tag=all)
 - [learn X in Y minutes](https://learnxinyminutes.com/)
+- [learn-anything](https://learn-anything.xyz/ "learn-anything")
 - [LeetCode](https://leetcode.com/)
 - [百度前端学院](https://github.com/woai3c/2016ife-task)
 - [一起学NodeJs](https://github.com/nswbmw/N-blog)
