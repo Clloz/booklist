@@ -24,6 +24,7 @@
   - [Python](#python)
   - [PHP](#php)
   - [Java](#java)
+  - [Go](#go)
   - [Lisp](#lisp)
   - [NodeJs](#nodejs)
 - [游戏开发](#游戏开发)
@@ -259,6 +260,10 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - Spring实战
 - Maven实战
 - Spring MVC 学习指南
+
+#### Go
+- the way to go [Go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN "Go入门指南")
+- [Go编程基础](https://github.com/Unknwon/go-fundamental-programming "Go编程基础")
 
 #### Lisp
 - The Little Schemer
