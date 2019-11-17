@@ -110,6 +110,8 @@
 - 计算机科学导论
 - 计算机科学概论
 - 深入理解计算机系统（第三版）
+- [CSAPP CMU 课程](https://www.cs.cmu.edu/afs/cs/academic/class/15213-s16/www/schedule.html "CSAPP CMU 课程")
+- [CSAPP CMU 主页](http://csapp.cs.cmu.edu/3e/home.html "CSAPP CMU 主页")
 - 模拟和数字电子电路基础 - 结合MIT6.0002
 - 编码:隐匿在计算机软硬件背后的语言
 - 计算机组成与设计:硬件/软件接口(原书第5版)
