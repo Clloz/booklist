@@ -131,19 +131,33 @@
 - Linux内核
 
 ### Linux/Unix
+- [Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html# "Linux Tools Quick Tutorial")
+- Linux从入门到精通
+- Linux Shell脚本攻略
+- Linux命令行大全
+- Linux程序设计（第4版）
 - UNIX 环境高级编程（第三版）
 - Linux-UNIX系统编程手册 上
 - Linux-UNIX系统编程手册 下
+- Linux命令行与shell脚本编程大全（第3版）
 - 鸟哥的Linux私房菜基础学习篇第四版v2.0
+- LINUX设备驱动程序
+- Linux内核完全注释
+- Linux内核完全剖析
+- LINUX KERNEL技术手册
 - 深入Linux内核架构
 - 深入理解linux内核（中文第三版）
 - UNIX编程艺术
 - Linux多线程服务端编程：使用muduo C++网络库
 - Linux内核设计与实现(第三版)
-- UNIXLinux系统管理技术手册 第4版
+- ARM Linux内核源码剖析
+- Linux系统编程（第2版）
+- UNIX-Linux系统管理技术手册 第4版
 - Unix-Linux编程实践教程
 - UNIX网络编程卷1：套接字联网API（第3版）
 - UNIX网络编程卷2：进程间通信（第2版）
+- 嵌入式Linux应用开发完全手册
+- Linux内核源代码情景分析
 
 ### 编译原理
 - 计算机程序的构造和解释(原书第2版)（SICP）
@@ -408,6 +422,8 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [reddit - progamming](https://www.reddit.com/r/programming/ "reddit - progamming")
 
 #### 学习资源汇总
+- [MDN](https://developer.mozilla.org/en-US/docs/Web "MDN")
+- [w3schools](https://www.w3schools.com/ "w3schools")
 - [计算机开源书籍](https://github.com/justjavac/free-programming-books-zh_CN "计算机开源书籍")
 - [MIT计算机本科课表](http://student.mit.edu/catalog/m6a.html)
 - [CMU计算机本科课表](http://coursecatalog.web.cmu.edu/schoolofcomputerscience/)
