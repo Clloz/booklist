@@ -105,6 +105,8 @@
 - 算法导论
 - The Algorithm Design Manual 算法设计指南
 - [leetcode animation all in one](https://github.com/MisterBooo/LeetCodeAnimation "leetcode animation all in one")
+- [algs4 - kevin wayne](https://github.com/kevin-wayne/algs4 "algs4 - kevin wayne")
+- 算法时空
 
 ### 计算机组成原理
 - 计算机科学导论
