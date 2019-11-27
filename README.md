@@ -466,7 +466,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 
 ### 学习路线
 #### 前端路线
-![front-end-tree](https://img.clloz.com/blog/writing/front-end-tree.jpg "front-end-tree")
+[前端学习路线图](https://img.clloz.com/blog/writing/front-end-tree.jpg "前端学习路线图")
 
 方糖前端学习路线图： [PDF下载]( https://img.clloz.com/blog/writing/ft-learning-path.pdf "PDF下载")
 
