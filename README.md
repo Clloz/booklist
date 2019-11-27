@@ -41,7 +41,8 @@
   - [学习资源汇总](#学习资源汇总)
 - [学习路线](#学习路线)
   - [前端](#前端)
-  - [游戏开发](游戏开发)
+  - [游戏开发](#游戏开发)
+  - [算法](#算法)
 - [数学](#数学)
   - [数学科普](#数学科普)
   - [微积分](#微积分)
@@ -107,6 +108,7 @@
 - [leetcode animation all in one](https://github.com/MisterBooo/LeetCodeAnimation "leetcode animation all in one")
 - [algs4 - kevin wayne](https://github.com/kevin-wayne/algs4 "algs4 - kevin wayne")
 - 算法时空
+- [程序员必须掌握的算法 - 知乎](https://www.zhihu.com/question/23148377/answer/907915556 "程序员必须掌握的算法")
 
 ### 计算机组成原理
 - 计算机科学导论
@@ -470,6 +472,9 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 
 #### 游戏开发
 [game-programmer](https://github.com/miloyip/game-programmer "game-programmer")
+
+#### 算法
+![algorithm]( https://img.clloz.com/blog/writing/algorithm.jpg "algorithm")
 
 ### 数学
 - 数学之美
