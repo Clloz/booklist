@@ -482,6 +482,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 ![algorithm]( https://img.clloz.com/blog/writing/algorithm.jpg "algorithm")
 
 ### 数学
+- 程序员的数学
 - 数学之美
 - 具体数学
 - 普林斯顿微积分读本
