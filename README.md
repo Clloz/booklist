@@ -94,6 +94,7 @@
 - [GitHub前端开源项目](https://github.com/biaochenxuying/blog/issues/32 "GitHub前端开源项目")
 
 ### 数据结构与算法
+- 啊哈!算法
 - 大话数据结构
 - 精通正则表达式（第3版）
 - 算法基础
@@ -113,6 +114,8 @@
 ### 计算机组成原理
 - 计算机科学导论
 - 计算机科学概论
+- 计算机是怎样跑起来的 - 矢泽久雄
+- 程序是怎样跑起来的 - 矢泽久雄
 - 深入理解计算机系统（第三版）
 - [CSAPP CMU 课程](https://www.cs.cmu.edu/afs/cs/academic/class/15213-s16/www/schedule.html "CSAPP CMU 课程")
 - [CSAPP CMU 主页](http://csapp.cs.cmu.edu/3e/home.html "CSAPP CMU 主页")
@@ -173,6 +176,7 @@
 - [parsing techniques 中文译本](https://github.com/duguying/parsing-techniques)
 
 ### 计算机网络
+- 网络是怎样连接的 - 户根勤
 - 图解HTTP (图灵程序设计丛书)
 - 图灵程序设计丛书:图解TCP/IP(第5版)
 - HTTP权威指南
@@ -238,6 +242,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 
 
 #### C
+- 啊哈C语言！逻辑的挑战
 - C程序设计语言（第二版）
 - C Primer Plus 第六版
 - 明解C语言
