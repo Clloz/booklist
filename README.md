@@ -482,12 +482,46 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 ![algorithm]( https://img.clloz.com/blog/writing/algorithm.jpg "algorithm")
 
 ### 数学
+#### 数学科普
 - 程序员的数学
 - 数学之美
 - 具体数学
-- 普林斯顿微积分读本
-- 线性代数及其应用
+- 数学：它的内容，方法和意义
+- 什么是数学 - R. Courant
+- 古今数学思想（新版）- 莫里斯·克莱因
+- 微积分的历程：从牛顿到勒贝格 - William Dunham
 - 华章数学译丛系列
+
+#### 微积分
+- 普林斯顿微积分读本
+- 高等数学（同济第七版）
+- 托马斯微积分
+- 微积分第九版 - Dale Varberg
+- 简明微积分
+- 微积分入门（修订版）- 小平邦彦
+- 数学分析原理
+
+#### 线性代数
+- Introduction to Linear Algebra, Fourth Edition - MIT
+- 线性代数及其应用 - David C. Lay
+- 线性代数应该这样学 (Linear Algebra Done Right)
+- Linear Algebra Done Wrong
+- 线性代数及其应用 - Peter D. Lax
+- [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/vmls.pdf "Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares")
+- 矩阵分析
+- Matrix Differential Calculus with Applications in Statistics and Econometrics
+
+#### 概率论与数理统计
+- 概率论基础教程 - Sheldon M. Ross
+- 概率导论 - Dimitri P. Bertsekas
+- 概率论及其应用 - William Feller
+- 统计推断 - George Casella
+- 数理统计学导论 - Robert V. Hogg
+- 院概率论与数理统计 - 陈希孺
+- 数理统计学教程 - 陈希孺
+
+#### 离散数学
+- 离散数学及其应用
 
 ### 科学
 - 万物起源
