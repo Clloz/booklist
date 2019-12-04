@@ -41,6 +41,7 @@
   - [学习资源汇总](#学习资源汇总)
 - [学习路线](#学习路线)
   - [前端](#前端)
+  - [JAVA学习路线](#JAVA学习路线)
   - [游戏开发](#游戏开发)
   - [算法](#算法)
 - [数学](#数学)
@@ -474,6 +475,9 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 [前端学习路线图](https://img.clloz.com/blog/writing/front-end-tree.jpg "前端学习路线图")
 
 方糖前端学习路线图： [PDF下载]( https://img.clloz.com/blog/writing/ft-learning-path.pdf "PDF下载")
+
+#### JAVA学习路线
+![java-learning-path]( https://img.clloz.com/blog/writing/java-learning-path.jpg "java-learning-path")
 
 #### 游戏开发
 [game-programmer](https://github.com/miloyip/game-programmer "game-programmer")
