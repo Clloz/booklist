@@ -436,6 +436,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [reddit - progamming](https://www.reddit.com/r/programming/ "reddit - progamming")
 
 #### 学习资源汇总
+- [Head First 系列pdf](https://github.com/abhinavkorpal/head_first_series_books "Head First 系列pdf")
 - [MDN](https://developer.mozilla.org/en-US/docs/Web "MDN")
 - [w3schools](https://www.w3schools.com/ "w3schools")
 - [计算机开源书籍](https://github.com/justjavac/free-programming-books-zh_CN "计算机开源书籍")
