@@ -243,6 +243,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 
 
 #### C
+- 嗨翻C语言
 - 啊哈C语言！逻辑的挑战
 - C程序设计语言（第二版）
 - C Primer Plus 第六版
@@ -275,6 +276,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [PHP the right way](https://laravel-china.github.io/php-the-right-way/)
 
 #### Java
+- Head first Java
 - Java编程思想
 - 深入理解Java虚拟机：JVM高级特性与最佳实践
 - effective-java中文版
