@@ -237,6 +237,8 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 
 
 ### 编程语言
+- [热门语言从零开始到构建应用 - GitHub](https://github.com/tuvtran/project-based-learning "热门语言从零开始到构建应用 - GitHub")
+
 #### 汇编
 - 汇编语言（第三版）
 - [Introduction to Computer Organization with x86-64 Assembly Language & GNU/Linux](https://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html "Introduction to Computer Organization with x86-64 Assembly Language & GNU/Linux")
@@ -436,6 +438,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [reddit - progamming](https://www.reddit.com/r/programming/ "reddit - progamming")
 
 #### 学习资源汇总
+- [程序员应该看的网站整理- GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit "程序员应该看的网站整理- GitHub")
 - [Head First 系列pdf](https://github.com/abhinavkorpal/head_first_series_books "Head First 系列pdf")
 - [MDN](https://developer.mozilla.org/en-US/docs/Web "MDN")
 - [w3schools](https://www.w3schools.com/ "w3schools")
