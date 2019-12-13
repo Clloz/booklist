@@ -253,6 +253,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - 明解C语言
 - C和指针
 - C陷阱和缺陷
+- C标准库
 
 #### C++
 - C++ Primer(中文版)(第5版)
