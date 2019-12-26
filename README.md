@@ -273,6 +273,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 
 #### Python
 - A Byte of Python 简明教程
+- Python编程 从入门到实践
 - Python核心编程（第3版）（异步图书）
 - Python网络数据采集 (图灵程序设计丛书)
 - [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
