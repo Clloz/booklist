@@ -171,6 +171,7 @@
 ### 编译原理
 - 计算机程序的构造和解释(原书第2版)（SICP）
 - [SICP-python](https://github.com/wizardforcel/sicp-py-zh)
+- [SICP - JavaScript](https://sicp.comp.nus.edu.sg/ "SICP - JavaScript")
 - 编译原理 龙书
 - 计算机系统要素
 - 计算的本质：深入剖析程序和计算机
