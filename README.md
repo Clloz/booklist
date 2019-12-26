@@ -258,6 +258,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 
 #### C++
 - C++ Primer(中文版)(第5版)
+- C++ Primer Plus
 - C++编程思想(两卷合订本)
 - C++标准库(第2版)
 - Effective C++:改善程序与设计的55个具体做法(第3版)(中文版)
