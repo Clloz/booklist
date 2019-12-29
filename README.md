@@ -274,6 +274,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - Effective STL中文版
 
 #### Python
+- 明解Python
 - A Byte of Python 简明教程
 - Python编程 从入门到实践
 - Python核心编程（第3版）（异步图书）
@@ -285,6 +286,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [PHP the right way](https://laravel-china.github.io/php-the-right-way/)
 
 #### Java
+- 明解Java
 - Head first Java
 - Java编程思想
 - 深入理解Java虚拟机：JVM高级特性与最佳实践
