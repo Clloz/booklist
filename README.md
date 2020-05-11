@@ -694,6 +694,9 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - 文化和价值
 - 影响力
 - 沉思录
+- 想透彻
+- 邓晓芒
+- 马克思恩格斯文集
 
 ### 心理学
 - 乌合之众：大众心理研究
