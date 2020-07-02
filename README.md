@@ -653,6 +653,8 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - 不能承受的生命之轻
 - 中华经典名著全本全注全译丛书全套85册58种文白对照原文注释译文
 - [国学经典查询](http://www.vsucai.cn/guoxue/?from=timeline&isappinstalled=0)
+- 苏轼选集
+- 人间词话
 
 ### 政法哲史
 - 枪炮、病菌与钢铁:人类社会的命运(修订版)
@@ -697,6 +699,8 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - 想透彻
 - 邓晓芒
 - 马克思恩格斯文集
+- ~~悉达多~~
+- ~~半小时漫画~~
 
 ### 心理学
 - 乌合之众：大众心理研究
