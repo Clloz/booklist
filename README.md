@@ -551,6 +551,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - 七堂极简物理课
 - 认识宇宙- NASA
 - 这里是中国 -星球研究所
+- 人类简史
 
 ### 语言
 #### 语言软件
