@@ -433,6 +433,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [ffmpe  g作者Fabrice Ballard](https://bellard.org/ "ffmpeg作者Fabrice Ballard")
 - [前端-夜尽天明](https://github.com/biaochenxuying/blog "前端-夜尽天明")
 - [算法-程序员吴师兄](https://www.cxyxiaowu.com/ "算法-程序员吴师兄")
+- [三点水](https://lotabout.me/ "三点水")
 
 #### 论坛&资讯
 - [segmentfault](https://segmentfault.com/)
