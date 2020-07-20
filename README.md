@@ -88,7 +88,10 @@
 - 你不知道的JavaScript（下卷）
 - JavaScript权威指南（原书第6版）
 - JavaScript语言精粹(修订版)
-- ES6标准入门
+- ~~深入理解ES6 - zakas~~
+- ~~ECMAScript6 入门 - 阮一峰~~
+- ~~JavaScript面向对象精要 - zakas~~
+- ~~JavaScript面向对象编程指南~~
 - [How browser works](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 - [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial)
 - [饿了么1](https://github.com/bailicangdu/node-elm)
