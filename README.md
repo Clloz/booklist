@@ -438,7 +438,27 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [ffmpe  g作者Fabrice Ballard](https://bellard.org/ "ffmpeg作者Fabrice Ballard")
 - [前端-夜尽天明](https://github.com/biaochenxuying/blog "前端-夜尽天明")
 - [算法-程序员吴师兄](https://www.cxyxiaowu.com/ "算法-程序员吴师兄")
-Head First 系列pdf](https://github.com/abhinavkorpal/head_first_series_books "Head First 系列pdf")
+- [三点水](https://lotabout.me/ "三点水")
+
+#### 论坛&资讯
+- [segmentfault](https://segmentfault.com/)
+- [程序员客栈](proginn.com/)
+- [Medium](medium.com/)
+- [Hacker News](https://news.ycombinator.com/news)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [infoQ](https://www.infoq.com/)
+- [stackoverflow](https://stackoverflow.com)
+- [freecodecamp](https://www.freecodecamp.org/news/)
+- [fcc中文](https://www.freecodecamp.one/)
+- [css-weekly](https://css-weekly.com/)
+- [echojs](http://www.echojs.com/)
+- [smashingmagazine](https://www.smashingmagazine.com/)
+- [reddit - progamming](https://www.reddit.com/r/programming/ "reddit - progamming")
+
+#### 学习资源汇总
+- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles "浙江大学课程攻略共享计划")
+- [程序员应该看的网站整理- GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit "程序员应该看的网站整理- GitHub")
+- [Head First 系列pdf](https://github.com/abhinavkorpal/head_first_series_books "Head First 系列pdf")
 - [MDN](https://developer.mozilla.org/en-US/docs/Web "MDN")
 - [w3schools](https://www.w3schools.com/ "w3schools")
 - [计算机开源书籍](https://github.com/justjavac/free-programming-books-zh_CN "计算机开源书籍")
