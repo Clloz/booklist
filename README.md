@@ -78,6 +78,7 @@
 
 
 #### JavaScript
+- [现代JavaScript教程](https://zh.javascript.info/ "现代JavaScript教程")
 - JavaScript高级程序设计（第三版）
 - 高性能JavaScript
 - 学习JavaScript数据结构与算法
