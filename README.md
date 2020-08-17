@@ -99,6 +99,10 @@
 - [饿了么2](https://github.com/bailicangdu/vue2-elm)
 - [饿了么3](https://github.com/bailicangdu/vue2-manage)
 - [GitHub前端开源项目](https://github.com/biaochenxuying/blog/issues/32 "GitHub前端开源项目")
+- [JavaScript Tips](https://www.jstips.co/zh_CN/ "JavaScript Tips")
+- [CDNJS](https://cdnjs.com/libraries "CDNJS")
+- [Beautiful Open](https://beautifulopen.com/ "Beautiful Open")
+- [JavaScript Weekly](https://javascriptweekly.com/ "JavaScript Weekly")
 
 ### 数据结构与算法
 - 啊哈!算法
