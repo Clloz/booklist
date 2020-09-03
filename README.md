@@ -105,6 +105,8 @@
 - [JavaScript Weekly](https://javascriptweekly.com/ "JavaScript Weekly")
 
 ### 数据结构与算法
+- [力扣加加 - 努力做西湖区最好的算法题解](https://leetcode-solution.cn/ "力扣加加 - 努力做西湖区最好的算法题解")
+- [leetcode 题解](https://github.com/azl397985856/leetcode "leetcode 题解")
 - 啊哈!算法
 - 大话数据结构
 - 精通正则表达式（第3版）
