@@ -9,6 +9,7 @@
 - [前端](#前端)
     - [CSS](#css)
     - [JavaScript](#javascript)
+    - [前端项目](#前端项目)
 - [数据结构与算法](#数据结构与算法)
 - [计算机组成原理](#计算机组成原理)
 - [操作系统](#操作系统)
@@ -95,14 +96,18 @@
 - ~~JavaScript面向对象编程指南~~
 - [How browser works](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 - [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial)
-- [饿了么1](https://github.com/bailicangdu/node-elm)
-- [饿了么2](https://github.com/bailicangdu/vue2-elm)
-- [饿了么3](https://github.com/bailicangdu/vue2-manage)
-- [GitHub前端开源项目](https://github.com/biaochenxuying/blog/issues/32 "GitHub前端开源项目")
 - [JavaScript Tips](https://www.jstips.co/zh_CN/ "JavaScript Tips")
 - [CDNJS](https://cdnjs.com/libraries "CDNJS")
 - [Beautiful Open](https://beautifulopen.com/ "Beautiful Open")
 - [JavaScript Weekly](https://javascriptweekly.com/ "JavaScript Weekly")
+
+#### 前端项目
+- [饿了么1](https://github.com/bailicangdu/node-elm)
+- [饿了么2](https://github.com/bailicangdu/vue2-elm)
+- [饿了么3](https://github.com/bailicangdu/vue2-manage)
+- [GitHub前端开源项目](https://github.com/biaochenxuying/blog/issues/32 "GitHub前端开源项目")
+- [前端练习项目](https://github.com/bradtraversy/vanillawebprojects "前端练习项目")
+- [百度前端技术学院](https://github.com/woai3c/2016ife-task "百度前端技术学院")
 
 ### 数据结构与算法
 - [力扣加加 - 努力做西湖区最好的算法题解](https://leetcode-solution.cn/ "力扣加加 - 努力做西湖区最好的算法题解")
