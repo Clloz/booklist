@@ -9,10 +9,10 @@
 - [前端](#前端)
     - [CSS](#css)
     - [JavaScript](#javascript)
-    - [NodeJS][#nodejs]
+    - [NodeJS](#nodejs)
     - [前端项目](#前端项目)
 - [数据结构与算法](#数据结构与算法)
-    - [leetcode](#leetcode)
+    - [LeetCode](#leetcode)
 - [计算机组成原理](#计算机组成原理)
 - [操作系统](#操作系统)
 - [Linux/Unix](#linuxunix)
@@ -142,7 +142,7 @@
 - [程序员必须掌握的算法 - 知乎](https://www.zhihu.com/question/23148377/answer/907915556 "程序员必须掌握的算法")
 - [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm "labuladong 的算法小抄")
 
-#### leetcode
+#### LeetCode
 - [leetcode](https://leetcode.com/ "leetcode")
 - [力扣 - 中国](https://leetcode-cn.com/ "力扣 - 中国")
 - [lintcode](https://www.lintcode.com/ "lintcode")
