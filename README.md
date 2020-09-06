@@ -9,8 +9,10 @@
 - [前端](#前端)
     - [CSS](#css)
     - [JavaScript](#javascript)
+    - [NodeJS][#nodejs]
     - [前端项目](#前端项目)
 - [数据结构与算法](#数据结构与算法)
+    - [leetcode](#leetcode)
 - [计算机组成原理](#计算机组成原理)
 - [操作系统](#操作系统)
 - [Linux/Unix](#linuxunix)
@@ -29,7 +31,6 @@
   - [Java](#java)
   - [Go](#go)
   - [Lisp](#lisp)
-  - [NodeJs](#nodejs)
 - [游戏开发](#游戏开发)
 - [设计](#设计)
 - [版本控制](#版本控制)
@@ -66,6 +67,9 @@
 - [其他](#其他)
 
 ### 前端
+- [MDN](https://developer.mozilla.org/en-US/docs/Web "MDN")
+- [w3schools](https://www.w3schools.com/ "w3schools")
+- [掘金翻译计划](https://github.com/xitu/gold-miner)
 
 #### CSS
 - CSS权威指南(第3版)
@@ -76,7 +80,7 @@
 - [CSS doodle](https://css-doodle.com/)
 - [CSS inspiration](https://chokcoco.github.io/CSS-Inspiration/#/./init)
 - [CSS技巧](https://github.com/chokcoco/iCSS)
-
+- [CSS trick](https://css-tricks.com/)
 
 #### JavaScript
 - [现代JavaScript教程](https://zh.javascript.info/ "现代JavaScript教程")
@@ -100,18 +104,27 @@
 - [CDNJS](https://cdnjs.com/libraries "CDNJS")
 - [Beautiful Open](https://beautifulopen.com/ "Beautiful Open")
 - [JavaScript Weekly](https://javascriptweekly.com/ "JavaScript Weekly")
+- [Web开发练习题](https://www.freecodecamp.org/ "Web开发练习题")
+- [张鑫旭前端小测](https://github.com/zhangxinxu/quiz "张鑫旭前端小测")
+- [Google Web 开发者](https://developers.google.com/web/)
+
+#### NodeJS
+- [node school](https://nodeschool.io/)
+- [一起学NodeJs](https://github.com/nswbmw/N-blog)
+- Node.js开发指南 (图灵原创 3)
+- 深入浅出Node.js (图灵原创)
+- [网易云音乐API - NodeJS](https://github.com/Binaryify/NeteaseCloudMusicApi "网易云音乐API - NodeJS")
+- [饿了么1](https://github.com/bailicangdu/node-elm)
 
 #### 前端项目
-- [饿了么1](https://github.com/bailicangdu/node-elm)
 - [饿了么2](https://github.com/bailicangdu/vue2-elm)
 - [饿了么3](https://github.com/bailicangdu/vue2-manage)
 - [GitHub前端开源项目](https://github.com/biaochenxuying/blog/issues/32 "GitHub前端开源项目")
 - [前端练习项目](https://github.com/bradtraversy/vanillawebprojects "前端练习项目")
 - [百度前端技术学院](https://github.com/woai3c/2016ife-task "百度前端技术学院")
+- [网易云音乐 -Vue](https://github.com/daoshengfu/vue-fds_music "网易云音乐 -Vue")
 
 ### 数据结构与算法
-- [力扣加加 - 努力做西湖区最好的算法题解](https://leetcode-solution.cn/ "力扣加加 - 努力做西湖区最好的算法题解")
-- [leetcode 题解](https://github.com/azl397985856/leetcode "leetcode 题解")
 - 啊哈!算法
 - 大话数据结构
 - 精通正则表达式（第3版）
@@ -120,14 +133,28 @@
 - 数据结构与算法分析
 - 数据结构 邓俊辉
 - 算法（第四版）
+- [算法4 Java 代码](https://github.com/kevin-wayne/algs4 "算法4 Java 代码")
 - 编程珠玑（第2版修订版）（异步图书）
 - 编程珠玑（续）（修订版）（异步图书）
 - 算法导论
 - The Algorithm Design Manual 算法设计指南
-- [leetcode animation all in one](https://github.com/MisterBooo/LeetCodeAnimation "leetcode animation all in one")
-- [algs4 - kevin wayne](https://github.com/kevin-wayne/algs4 "algs4 - kevin wayne")
 - 算法时空
 - [程序员必须掌握的算法 - 知乎](https://www.zhihu.com/question/23148377/answer/907915556 "程序员必须掌握的算法")
+- [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm "labuladong 的算法小抄")
+
+#### leetcode
+- [leetcode](https://leetcode.com/ "leetcode")
+- [力扣 - 中国](https://leetcode-cn.com/ "力扣 - 中国")
+- [lintcode](https://www.lintcode.com/ "lintcode")
+- [codeforces](https://codeforces.com/problemset "codeforces")
+- [北大ACM](http://poj.org/ "北大ACM")
+- [onlinejudge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1 "onlinejudge")
+- [ICPC past problems](https://icpc.global/worldfinals/problems "ICPC past problems")
+- [leetcode animation all in one](https://github.com/MisterBooo/LeetCodeAnimation "leetcode animation all in one")
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go "LeetCode-Go")
+- [LeetCode CookBook](https://books.halfrost.com/leetcode/ "LeetCode CookBook")
+- [力扣加加 - 努力做西湖区最好的算法题解](https://leetcode-solution.cn/ "力扣加加 - 努力做西湖区最好的算法题解")
+- [leetcode 题解](https://github.com/azl397985856/leetcode "leetcode 题解")
 
 ### 计算机组成原理
 - 计算机科学导论
@@ -144,6 +171,7 @@
 - 计算机存储与外设
 - 计算机组成原理 - Alan Clements
 - 计算机体系结构：量化研究方法
+- [learning SICP](https://github.com/DeathKing/Learning-SICP)
 
 ### 操作系统
 - 操作系统精髓与设计原理（第八版）
@@ -157,6 +185,8 @@
 - Linux内核
 
 ### Linux/Unix
+- [命令行的艺术](https://github.com/jlevy/the-art-of-command-line "命令行的艺术")
+- [Linux kernel](https://www.kernel.org/ "Linux kernel")
 - [Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html# "Linux Tools Quick Tutorial")
 - Linux从入门到精通
 - Linux Shell脚本攻略
@@ -261,6 +291,8 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 
 ### 编程语言
 - [热门语言从零开始到构建应用 - GitHub](https://github.com/tuvtran/project-based-learning "热门语言从零开始到构建应用 - GitHub")
+- [learn X in Y minutes](https://learnxinyminutes.com/)
+- [learn-anything](https://learn-anything.xyz/ "learn-anything")
 
 #### 汇编
 - 汇编语言（第三版）
@@ -291,6 +323,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - The Design and Evolution of C++
 - Thinking in C++
 - Effective STL中文版
+- [计算机图形学资料](https://github.com/FancyVin/fun-with-graphics "计算机图形学资料")
 
 #### Python
 - 明解Python
@@ -471,42 +504,15 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles "浙江大学课程攻略共享计划")
 - [程序员应该看的网站整理- GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit "程序员应该看的网站整理- GitHub")
 - [Head First 系列pdf](https://github.com/abhinavkorpal/head_first_series_books "Head First 系列pdf")
-- [MDN](https://developer.mozilla.org/en-US/docs/Web "MDN")
-- [w3schools](https://www.w3schools.com/ "w3schools")
 - [计算机开源书籍](https://github.com/justjavac/free-programming-books-zh_CN "计算机开源书籍")
 - [MIT计算机本科课表](http://student.mit.edu/catalog/m6a.html)
 - [CMU计算机本科课表](http://coursecatalog.web.cmu.edu/schoolofcomputerscience/)
 - [计算机学习资料整理](https://github.com/jiangxincode/cnblogs)
 - [中科大课程资源](https://ustc-resource.github.io/USTC-Course/)
-- [掘金翻译计划](https://github.com/xitu/gold-miner)
-- [learning SICP](https://github.com/DeathKing/Learning-SICP)
-- [node school](https://nodeschool.io/)
-- [CSS trick](https://css-tricks.com/)
-- [前端算法](http://scriptoj.mangojuice.top/problems?tag=all)
-- [learn X in Y minutes](https://learnxinyminutes.com/)
-- [learn-anything](https://learn-anything.xyz/ "learn-anything")
-- [LeetCode](https://leetcode.com/)
-- [百度前端学院](https://github.com/woai3c/2016ife-task)
-- [一起学NodeJs](https://github.com/nswbmw/N-blog)
-- [北大ACM](http://poj.org/)
-- [Google Web 开发者](https://developers.google.com/web/)
-- [ACM](https://www.acm.org/)
-- [ICPC](https://icpc.baylor.edu/)
 - [实验吧](http://www.shiyanbar.com/ctf/practice)
-- [HackerRank](https://www.hackerrank.com/)
 - [program by doing](https://programmingbydoing.com/)
-- [leetcode题解](https://github.com/azl397985856/leetcode)
-- [LintCode](https://www.lintcode.com/)
 - [牛客网-面试](https://www.nowcoder.com)
-- [Web开发练习题](freecodecamp.org/)
-- [算法学习](http://codeforces.com/)
-- [Linux kenrel](https://www.kernel.org/)
-- [算法练习](https://www.hackerrank.com/)
 - [jhon washam自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
-- [图形学相关资料](https://github.com/FancyVin/fun-with-graphics)
-- [张鑫旭前端小测](https://github.com/zhangxinxu/quiz "张鑫旭前端小测")
-- [命令行的艺术（the art of command line）](https://github.com/jlevy/the-art-of-command-line "命令行的艺术（the art of command line）")
-- [命令行翻译工具translate-shell](https://github.com/soimort/translate-shell "命令行翻译工具translate-shell")
 
 ### 学习路线
 #### 前端路线
