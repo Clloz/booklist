@@ -70,6 +70,15 @@
 - [MDN](https://developer.mozilla.org/en-US/docs/Web "MDN")
 - [w3schools](https://www.w3schools.com/ "w3schools")
 - [掘金翻译计划](https://github.com/xitu/gold-miner)
+- [W3C标准查询](https://www.w3.org/TR/ "W3C标准查询")
+- [ECMAScript 262](https://www.ecma-international.org/ecma-262/11.0/ "ECMAScript 262")
+- [HTML 标准](https://html.spec.whatwg.org/ "HTML 标准")
+- [DOM标准](https://dom.spec.whatwg.org/ "DOM标准")
+- [JavaScript Reference - MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference "JavaScript Reference - MDN")
+- [HTML5 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5 "HTML5 - MDN")
+- [CSS Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference "CSS Reference - MDN")
+- [Web API - MDN](https://developer.mozilla.org/en-US/docs/Web/API "Web API - MDN")
+- [CSS Working Group Editor Drafts](https://drafts.csswg.org/ "CSS Working Group Editor Drafts")
 
 #### CSS
 - CSS权威指南(第3版)
