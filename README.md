@@ -39,7 +39,6 @@
   - [优秀公开课](#优秀公开课)
 - [网站及资源](#网站及资源)
   - [工具](#工具)
-  - [标准文档](#标准文档)
   - [博客](#博客)
   - [论坛&资讯](#论坛资讯)
   - [学习资源汇总](#学习资源汇总)
@@ -434,6 +433,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [tutorialspoint在线学习资源](https://www.tutorialspoint.com/index.htm)
 
 #### 优秀公开课
+- [猴博士爱讲课](https://space.bilibili.com/67907025 "猴博士爱讲课")
 - [CMU计算机课程](https://www.zhihu.com/question/28249230/answer/131257766)
 - [飞龙整理公开课](https://it-ebooks.flygon.net/mooc/)
 - [名校计算机课程讲义](https://www.zhihu.com/question/57532048/answer/524593082)
@@ -469,12 +469,6 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [阿里巴巴开源镜像](https://opsx.alibaba.com/mirror)
 - [ustc镜像](https://mirrors.ustc.edu.cn/)
 - [代码粘贴ubuntu-pastebin](https://paste.ubuntu.com/ "代码粘贴ubuntu-pastebin")
-
-#### 标准文档
-- [whatwg HTML Standard](https://html.spec.whatwg.org/)
-- [W3C](https://www.w3.org/TR/)
-- [ECMAScript-262中文](https://ecma262.docschina.org/)
-- [ECMAScript-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 
 #### 博客
 - [emacs-全栈-王勇](https://manateelazycat.github.io/index.html)
