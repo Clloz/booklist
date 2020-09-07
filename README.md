@@ -103,6 +103,8 @@
 - 你不知道的JavaScript（下卷）
 - JavaScript权威指南（原书第6版）
 - JavaScript语言精粹(修订版)
+- [ES6 features](https://github.com/lukehoban/es6features#readme "ES6 features")
+- [ECMAScript 6 入门教程](https://es6.ruanyifeng.com/ "ECMAScript 6 入门教程")
 - ~~深入理解ES6 - zakas~~
 - ~~ECMAScript6 入门 - 阮一峰~~
 - ~~JavaScript面向对象精要 - zakas~~
