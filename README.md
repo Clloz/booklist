@@ -136,6 +136,7 @@
 - [网易云音乐 -Vue](https://github.com/daoshengfu/vue-fds_music "网易云音乐 -Vue")
 
 ### 数据结构与算法
+- [ucberkeley cs61b数据结构和算法](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
 - 啊哈!算法
 - 大话数据结构
 - 精通正则表达式（第3版）
@@ -173,6 +174,9 @@
 - 计算机是怎样跑起来的 - 矢泽久雄
 - 程序是怎样跑起来的 - 矢泽久雄
 - 深入理解计算机系统（第三版）
+- [深入理解计算机系统 交大](https://ipads.se.sjtu.edu.cn/courses/ics/2017/index.shtml)
+- [深入理解计算机系统 CMU](https://www.cs.cmu.edu/~213/)
+- [深入理解计算机系统 南大](http://www.icourse163.org/learn/NJU-1001625001?tid=1205931209#/learn/announce)
 - 程序员的自我修养
 - [CSAPP CMU 课程](https://www.cs.cmu.edu/afs/cs/academic/class/15213-s16/www/schedule.html "CSAPP CMU 课程")
 - [CSAPP CMU 主页](http://csapp.cs.cmu.edu/3e/home.html "CSAPP CMU 主页")
@@ -262,6 +266,8 @@
 - Oracle Database 9i 10g 11g编程艺术:深入数据库体系结构 第2版
 - redis实战
 - redis设计与实现
+- [awesome-database-learning](https://github.com/pingcap/awesome-database-learning "awesome-database-learning")
+- [CMU - Database](https://15721.courses.cs.cmu.edu/spring2016/ "CMU - Database")
 
 ### 软件工程
 - 代码大全2
@@ -276,6 +282,10 @@
 - 高效程序员的45个习惯：敏捷开发修炼之道
 - 大型网站技术架构：核心原理与案例分析
 - 大型分布式网站架构：设计与实践
+- 《分布式系统：概念与设计》(Distributed Systems:Concepts and Design)
+- 《分布式算法》(DISTRIBUTED ALGORITHMS) Nancy A. Lynch
+- [分布式系统 - CMU](https://www.cs.cmu.edu/~srini/15-440/ "分布式系统 - CMU")
+- [分布式系统 - MIT](https://pdos.csail.mit.edu/6.824/ "分布式系统 - MIT")
 - [How to do a code review - Google](https://github.com/google/eng-practices/blob/master/review/reviewer/index.md "How to do a code review - Google")
 
 ### 设计模式
@@ -424,10 +434,6 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [tutorialspoint在线学习资源](https://www.tutorialspoint.com/index.htm)
 
 #### 优秀公开课
-- [ucberkeley cs61b数据结构和算法](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
-- [深入理解计算机系统 交大](https://ipads.se.sjtu.edu.cn/courses/ics/2017/index.shtml)
-- [深入理解计算机系统 CMU](https://www.cs.cmu.edu/~213/)
-- [深入理解计算机系统 南大](http://www.icourse163.org/learn/NJU-1001625001?tid=1205931209#/learn/announce)
 - [CMU计算机课程](https://www.zhihu.com/question/28249230/answer/131257766)
 - [飞龙整理公开课](https://it-ebooks.flygon.net/mooc/)
 - [名校计算机课程讲义](https://www.zhihu.com/question/57532048/answer/524593082)
