@@ -42,11 +42,6 @@
   - [博客](#博客)
   - [论坛&资讯](#论坛资讯)
   - [学习资源汇总](#学习资源汇总)
-- [学习路线](#学习路线)
-  - [前端](#前端)
-  - [JAVA学习路线](#JAVA学习路线)
-  - [游戏开发](#游戏开发)
-  - [算法](#算法)
 - [数学](#数学)
   - [数学科普](#数学科普)
   - [微积分](#微积分)
@@ -78,6 +73,10 @@
 - [CSS Reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference "CSS Reference - MDN")
 - [Web API - MDN](https://developer.mozilla.org/en-US/docs/Web/API "Web API - MDN")
 - [CSS Working Group Editor Drafts](https://drafts.csswg.org/ "CSS Working Group Editor Drafts")
+
+![front-end-tree](https://img.clloz.com/blog/writing/front-end-tree.jpg "front-end-tree")
+
+方糖前端学习路线图： [PDF下载]( https://img.clloz.com/blog/writing/ft-learning-path.pdf "PDF下载")
 
 #### CSS
 - CSS权威指南(第3版)
@@ -145,13 +144,18 @@
 - 数据结构 邓俊辉
 - 算法（第四版）
 - [算法4 Java 代码](https://github.com/kevin-wayne/algs4 "算法4 Java 代码")
+- 剑指offer
 - 编程珠玑（第2版修订版）（异步图书）
 - 编程珠玑（续）（修订版）（异步图书）
+- 编程之美
 - 算法导论
 - The Algorithm Design Manual 算法设计指南
 - 算法时空
 - [程序员必须掌握的算法 - 知乎](https://www.zhihu.com/question/23148377/answer/907915556 "程序员必须掌握的算法")
 - [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm "labuladong 的算法小抄")
+- [五分钟学算法 - 程序员吴师兄](https://zhuanlan.zhihu.com/p/137041568 "五分钟学算法 - 程序员吴师兄")
+
+![algorithm]( https://img.clloz.com/blog/writing/algorithm.jpg "algorithm")
 
 #### LeetCode
 - [leetcode](https://leetcode.com/ "leetcode")
@@ -372,6 +376,8 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - Maven实战
 - Spring MVC 学习指南
 
+![java-learning-path]( https://img.clloz.com/blog/writing/java-learning-path.jpg "java-learning-path")
+
 #### Go
 - the way to go [Go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN "Go入门指南")
 - [Go编程基础](https://github.com/Unknwon/go-fundamental-programming "Go编程基础")
@@ -389,6 +395,7 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - 游戏引擎架构
 - C++游戏编程入门(第4版)
 - 游戏编程模式（异步图书） (游戏设计与开发)
+- [game-programmer](https://github.com/miloyip/game-programmer "game-programmer")
 
 ### 音视频技术
 - [雷霄骅的专栏](https://blog.csdn.net/leixiaohua1020 "雷霄骅的专栏")
@@ -524,21 +531,6 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - [program by doing](https://programmingbydoing.com/)
 - [牛客网-面试](https://www.nowcoder.com)
 - [jhon washam自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
-
-### 学习路线
-#### 前端路线
-[前端学习路线图](https://img.clloz.com/blog/writing/front-end-tree.jpg "前端学习路线图")
-
-方糖前端学习路线图： [PDF下载]( https://img.clloz.com/blog/writing/ft-learning-path.pdf "PDF下载")
-
-#### JAVA学习路线
-![java-learning-path]( https://img.clloz.com/blog/writing/java-learning-path.jpg "java-learning-path")
-
-#### 游戏开发
-[game-programmer](https://github.com/miloyip/game-programmer "game-programmer")
-
-#### 算法
-![algorithm]( https://img.clloz.com/blog/writing/algorithm.jpg "algorithm")
 
 ### 数学
 #### 数学科普
