@@ -158,6 +158,7 @@
 ![algorithm]( https://img.clloz.com/blog/writing/algorithm.jpg "algorithm")
 
 #### LeetCode
+- [注册ACM会员- 畅享O'Reilly在线学习资源！](https://segmentfault.com/a/1190000021591385 "注册ACM会员- 畅享O'Reilly在线学习资源！")
 - [leetcode](https://leetcode.com/ "leetcode")
 - [力扣 - 中国](https://leetcode-cn.com/ "力扣 - 中国")
 - [lintcode](https://www.lintcode.com/ "lintcode")
