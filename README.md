@@ -87,6 +87,8 @@
 - [CSS doodle](https://css-doodle.com/)
 - [CSS inspiration](https://chokcoco.github.io/CSS-Inspiration/#/./init)
 - [CSS技巧](https://github.com/chokcoco/iCSS)
+- [chokcoco 博客](https://www.cnblogs.com/coco1s/)
+- [oxxostudio 博客](https://github.com/oxxostudio)
 - [CSS trick](https://css-tricks.com/)
 
 #### JavaScript
