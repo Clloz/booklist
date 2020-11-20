@@ -350,7 +350,6 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - The Design and Evolution of C++
 - Thinking in C++
 - Effective STL中文版
-- [计算机图形学资料](https://github.com/FancyVin/fun-with-graphics "计算机图形学资料")
 
 #### Python
 - 明解Python
@@ -393,6 +392,11 @@ Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html 
 - Node.js开发指南 (图灵原创 3)
 - 深入浅出Node.js (图灵原创)
 - [一起学Node](https://github.com/nswbmw/N-blog)
+
+### 计算机图形学
+- [计算机图形学资料](https://github.com/FancyVin/fun-with-graphics "计算机图形学资料")
+- [CMU计算机图形学课程15-462/662 2020 fall](http://15462.courses.cs.cmu.edu/fall2020/courseinfo)
+- [CMU计算机图形学课程15-462/662 2020 fall B站视频 英文字幕](https://www.bilibili.com/video/BV1QZ4y1K7ga?p=1)
 
 ### 游戏开发
 - 游戏引擎架构
